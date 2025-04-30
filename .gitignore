@@ -1,0 +1,10 @@
+.venv/
+
+dataset/
+
+*.h5
+*.keras
+*.pkl
+
+__pycache__/
+*.pyc
